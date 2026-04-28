@@ -1,7 +1,8 @@
 Power BI Sales Dashboard
 
 Overview
-
+#Dashboard preview
+![Dashboard Screenshot](Practical test dashboard.png)
 Interactive Power BI dashboard for sales analysis and KPI tracking.
 
 Features
